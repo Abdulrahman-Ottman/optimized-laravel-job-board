@@ -14,7 +14,7 @@
 <body class="bg-black text-white font-hanken-grotesk pb-20">
     <div class="px-10">
         <nav class="flex justify-between items-center py-4 border-b border-white/10">
-            <div class="text-blue-700 font-bold text-2xl">DevAO</div>
+            <a href="/" class="text-blue-700 font-bold text-2xl">DevAO</a>
 
             <div class="space-x-6 font-bold">
                 <a href="">Jobs</a>
